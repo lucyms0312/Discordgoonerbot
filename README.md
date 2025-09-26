@@ -25,7 +25,11 @@ changebotusername
 
 Usage:
 ?rule34 amount tags
-?danbooru amont tags
+
+
+?danbooru amount tags
+
+
 ?konachan amount tags
 
 install dependencies
