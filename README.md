@@ -24,9 +24,9 @@ changebotusername
 
 
 Usage:
-#?rule34  <amount> tags>
-?danbooru <amont> <tags>
-?konachan <amount> <tags>
+?rule34 amount tags
+?danbooru amont tags
+?konachan amount tags
 
 install dependencies
 discord.py
