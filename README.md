@@ -24,7 +24,7 @@ changebotusername
 
 
 Usage:
-?rule34 <amount> <tags>
+#?rule34  <amount> tags>
 ?danbooru <amont> <tags>
 ?konachan <amount> <tags>
 
